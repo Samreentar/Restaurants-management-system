@@ -1,0 +1,2 @@
+Restaurant Management System
+The Restaurant Management System is a robust web-based application designed to streamline the process of managing a restaurant's operations, including reservations, menu management, order processing, and customer feedback. This system is developed using HTML, CSS, and JavaScript for the front end, and PHP and MySQL for the back end, ensuring efficient and dynamic interaction between users and the server.
